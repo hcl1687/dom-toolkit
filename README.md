@@ -1,5 +1,5 @@
 dom-toolkit
-==========
+===================
 
 Toolkit for DOM. Based on the [vuejs dom util](https://github.com/vuejs/vue/blob/dev/src/util/dom.js)
 
